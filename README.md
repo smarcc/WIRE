@@ -1,7 +1,8 @@
 # WIRE - Web based Network Information System
 Rebuild of a developed SPA web application of a student project. 
 
-Structure:
+#Structure
+
   Technologies used:
     Python
     Pandas
